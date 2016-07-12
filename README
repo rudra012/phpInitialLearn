@@ -1,2 +1,22 @@
-For PHP beginners:
+Source: http://www.w3schools.com/Php
 
+PHP examples for beginners:
+
+--------------------------------------------------------------------------------------------
+
+Chapter-1: basic PHP stuff
+
+example: basic.php
+
+--------------------------------------------------------------------------------------------
+
+Chapter-2: PHP Variables
+
+
+Global and Local Scope
+PHP The PHP The global Keywordstatic Keyword
+PHP The static Keyword
+
+example: variableScope.php
+
+--------------------------------------------------------------------------------------------

@@ -49,3 +49,13 @@ example: variables.php
 
 --------------------------------------------------------------------------------------------
 
+Chapter-5: PHP Strings
+
+Get The Length of a String: strlen
+Count The Number of Words in a String:  str_word_count
+Reverse a String:   strrev
+Search For a Specific Text Within a String:  strpos
+
+example: string.php
+
+--------------------------------------------------------------------------------------------

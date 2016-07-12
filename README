@@ -85,4 +85,56 @@ PHP Assignment Operators
 PHP Comparison Operators
 PHP String Operators
 PHP Array Operators
+
+example: operators.php
+
 --------------------------------------------------------------------------------------------
+
+Chapter-8: PHP If, Else, While, For, Switch, Array with Sort, Function
+
+if (condition) {
+    code to be executed if this condition is true;
+} elseif (condition) {
+    code to be executed if this condition is true;
+} else {
+    code to be executed if all conditions are false;
+}
+
+switch (n) {
+    case label1:
+        code to be executed if n=label1;
+        break;
+    case label2:
+        code to be executed if n=label2;
+        break;
+    case label3:
+        code to be executed if n=label3;
+        break;
+    ...
+    default:
+        code to be executed if n is different from all labels;
+}
+
+while (condition is true) {
+    code to be executed;
+}
+
+do {
+    code to be executed;
+} while (condition is true);
+
+for (init counter; test counter; increment counter) {
+    code to be executed;
+}
+
+foreach ($array as $value) {
+    code to be executed;
+}
+
+function functionName() {
+    code to be executed;
+}
+
+Create an Array in PHP
+ array();
+

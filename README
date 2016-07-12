@@ -138,3 +138,19 @@ function functionName() {
 Create an Array in PHP
  array();
 
+--------------------------------------------------------------------------------------------
+
+Chapter-9: Global Variables - Superglobals
+
+
+    $GLOBALS
+    $_SERVER
+
+    In next chapters:
+    $_REQUEST
+    $_POST
+    $_GET
+    $_FILES
+    $_ENV
+    $_COOKIE
+    $_SESSION

@@ -30,3 +30,22 @@ echo is marginally faster than print.
 
 . and , is valid for echo
 only . is valid for print
+
+example: echoPrint.php
+
+--------------------------------------------------------------------------------------------
+
+Chapter-4: PHP variables
+
+PHP String
+PHP Integer
+PHP Float
+PHP Boolean
+PHP Array
+PHP Object
+PHP NULL Value
+
+example: variables.php
+
+--------------------------------------------------------------------------------------------
+
